@@ -1,0 +1,22 @@
+PhyloClear
+==========
+
+Copyright (C) 2026 PhyloClear contributors.
+
+PhyloClear is an independent, from-scratch reimplementation (in Python) of the
+functionality of FigTree, a graphical phylogenetic tree viewer originally
+authored by Andrew Rambaut.
+
+FigTree
+-------
+Original project: https://github.com/rambaut/figtree
+Original author:  Andrew Rambaut (2006-2014)
+Original license: GNU General Public License v2.0 or (at your option) any later
+                  version ("GPL-2.0-or-later").
+
+This project is a new implementation that does not reuse FigTree's Java source
+code. It is released under the GNU General Public License v3.0 or (at your
+option) any later version ("GPL-3.0-or-later"), which is a permitted later
+version of the GPL under FigTree's own license terms.
+
+We thank Andrew Rambaut for creating FigTree, which inspired this work.
